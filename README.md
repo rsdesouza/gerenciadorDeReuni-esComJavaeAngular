@@ -1,4 +1,4 @@
-#Crie seu gerenciador de salas de reuniões com Java e Angular
+# Criando um gerenciador de salas de reuniões com Java e Angular
 
 Neste Labs foi desenvolvido uma API com Spring Boot para gerenciar nossas salas de reunião, utilizando o Spring Data para persistência de dados e o banco in-memory H2. E o Front End que irá consumir essa API será uma SPA escrita em Angular.
 
